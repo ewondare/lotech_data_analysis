@@ -1,0 +1,13 @@
+algoritme,R2 Score,MSE,MAE,RMSE
+GradientBoostingRegressor,0.850658894,1.10433E+14,6117580.175,10508721.36
+RandomForestRegressor,0.825461877,1.29066E+14,6287646.026,11360706.66
+LinearRegression,0.55713895,3.27482E+14,11616361.31,18096472.97
+DecisionTreeRegressor,0.562604022,3.23441E+14,8759624.849,17984467.71
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
