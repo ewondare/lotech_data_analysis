@@ -6,7 +6,6 @@
   </a>
 
   <h3 align="center">Iranketab_Quera_G7</h3>
-  <h4 align="center">Iranbook website data analysis</h4>
 
 </div>
 
