@@ -16,10 +16,10 @@ The main goal of the project was to analyze information about lotech's sales dat
 To achieve this goal, the following steps must be performed in order
 
 - cleaning information from the .csv file, and made into a database
-![Database Schema](C:\Users\Parinaz\Documents\Projects\lotech_quera_proj2\lotech_data_analysis/lotech.PNG)
+![Database Schema](lotech.PNG)
 
 - Scraping data from rivals and creating a database for that also
-![Rivals Database Schema](C:\Users\Parinaz\Documents\Projects\lotech_quera_proj2\lotech_data_analysis/rivals_data_database.PNG)
+![Rivals Database Schema](rivals_data_database.PNG)
 - Datawarehousing in PowerBI using Power Query
-![Datawarehouse Schema](C:\Users\Parinaz\Documents\Projects\lotech_quera_proj2\lotech_data_analysis/lotech_datawarehouse.PNG)
+![Datawarehouse Schema](lotech_datawarehouse.PNG)
 - Creating an analysis dashboard for the employer's requests alongside with other analysis done by out team using Statistical analysis, Machine Learning techniques, ...
